@@ -16,7 +16,10 @@
  
 | 📈 Statistics | ⚡ Fun fact |
 |:---:|:---:|
-| [![MorelAvraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=MorelAvraham&show_icons=true&count_private=true&card_width=500)](https://github.com/MorelAvraham/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MorelAvraham&hide=jupyter%20notebook&layout=compact&langs_count=5&card_width=450)](https://github.com/MorelAvraham/github-readme-stats) |
+![MorelAvraham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MorelAvraham&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MorelAvraham&theme=xcode" alt="MorelAvraham Activity Graph" />
+</p>
 
 
 ## 👨‍💼 About Me
