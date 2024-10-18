@@ -18,6 +18,7 @@
 |:---:|:---:|
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MorelAvraham&show_icons=true&count_private=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MorelAvraham&hide=jupyter%20notebook&layout=compact&langs_count=5&card_width=450)](https://github.com/anuraghazra/github-readme-stats) |
 
+
 ## 👨‍💼 About Me
 - **Education:** Pursuing a Bachelor's Degree in Electrical Engineering and Computer Science at Hebrew University and As part of an honors program, I am pursuing a Master's degree in Business Administration (MBA.
 
