@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=MorelAvraham&label=Profile%20views&color=0e75b6&style=flat" alt="MorelAvraham" />
 </p>
 
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate Electrical Engineering and Computer Science student at Hebrew University.
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate Electrical Engineering and Computer Science student at the Hebrew University.
  Here, you'll find a collection of my projects, coursework, and contributions that showcase my skills and experiences.</h3>
  
 | 📈 Statistics |
@@ -47,7 +47,7 @@ In this repository, you'll discover a mix of projects, ideas, and snippets that 
 
 ## 🌱 What's Next?
 
-I'm always experimenting and learning. In the following semester, I will learn this courses:
+I'm always experimenting and learning. In the following semester, I will learn these courses:
 - **Algorithms**
 - **Data Structures**
 - **Computer Architecture**
